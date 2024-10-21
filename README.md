@@ -1,2 +1,4 @@
 # Primer_Repositorio
-Este es mi primer repositorio en el cuál estarán disponibles mis prácticas
+Este repositorio es propiedad de: Ander Tadeo Campos Ubiarco
+
+En este repositorio están disponibles mis prácticas en la segunda unidad, realizadas en PHP.
